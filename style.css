@@ -1,0 +1,17 @@
+.div_cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.imagen-pizza{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    
+}
+
+.imagen-pizza img{
+    height: 100%;
+}
+
